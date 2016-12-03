@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+body {
+    max-width: 970px;
+    margin: 0 auto;
+}
+nav {
+    float: left;
+    width: 20%;
+    background-color: red;
+}
+main {
+    background-color: green;
+    float: left;
+    width: 60%;
+}
+aside {
+    background-color: yellow;
+    margin-left: 80%;
+}
